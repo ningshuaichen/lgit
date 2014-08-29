@@ -1,2 +1,6 @@
 MyfenzhiMessage
+<<<<<<< HEAD
 7
+=======
+6
+>>>>>>> myfenzhi
